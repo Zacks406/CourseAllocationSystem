@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://zeeblog:zeeblog@cluster0.ag1go.mongodb.net/COURSEM?retryWrites=true&w=majority",
+  "jwtSecret": "han"
+}
